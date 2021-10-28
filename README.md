@@ -7,14 +7,12 @@ Simple 2D HTML Canvas game on JavaScript
 ##### 1.Go to  `ship/client/index.html`
 
 ##### Change <YOUR_IP> with your IP
----
 
 ``` html
 <script src="http://<YOUR_IP>:3000/socket.io/socket.io.js"></script>
 ```
 ##### 2.Go to  `ship/client/game.js`
 ##### Change <YOUR_IP> with your IP
----
 ``` js
 static connectToServer(io)
 {
