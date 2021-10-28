@@ -28,9 +28,5 @@ static connectToServer(io)
 ## Setup to build project
 ##### * There are two dependencies in "ship/server/package.json"
 You should install all of dependencies using by `npm install` command.
-# Install dependencies
-```
-npm install
-```
 ## Screenshot from the game
 ![Image](https://i.hizliresim.com/cz33iqx.gif)
