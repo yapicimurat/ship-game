@@ -1,5 +1,5 @@
 # 2D SHIP GAME
-Simple 2D HTML Canvas game on JavaScript
+Simple 2D HTML Canvas game in JavaScript
 ##### Frameworks
 [p5.js](https://p5js.org/)
 [socket.io](https://socket.io/)
